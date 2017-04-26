@@ -1,2 +1,4 @@
 # JS-from-Scratch
-Following the teachings of Robin Haney
+
+Notes: 
+1. to include 1 in the generated number via Math.random, just add 1 (+1).
